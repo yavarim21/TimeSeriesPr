@@ -1,19 +1,21 @@
 # TimeSeriesProject
-# Evaluating Time series Model on Insurance dataset 
+# A Comparative Study of ARIMA, Neural Networks, Dynamic Regressions, Prophet, and Combination Models  and Volatility Forecast Using  Insurance Dataset
 
 ## Description
-
-
+Dataset is extracted from fpp3 Library 
 
 ## Installation
-
-Provide installation instructions here.
+install R 2023 to run this project
 
 ## Usage
-
-Explain how to use your project.
+install below libraries for  R software to run this project :
+1. install Libaray(fpp3)
+2. install Library(prophet)
+3. install library(fable.prophet)
+4. install Library(tidyverse)
 
 ## Documentation
+This study employs a comprehensive analysis of US insurance data through advanced time series forecasting models, including Autoregressive Integrated Moving Average (ARIMA), Neural Networks (NN), and Prophet. Utilizing forecast data from the fpp3 library, the research aims to identify the most effective model for predicting insurance trends. Additionally, a volatility forecast is performed to understand the dynamics of these variables. Through a rigorous comparative analysis, the study evaluates and compares the performance of these models using some metrics. The results indicate that the combination method outperforms other approaches, exhibiting lower Root Mean Squared Error (RMSE). Furthermore, the study observes a significant dependence of quote volatility on TV advertisements.
 
 For more detailed documentation, check [here](docs/).
 
