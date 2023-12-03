@@ -6,6 +6,7 @@ Dataset is extracted from fpp3 Library
 
 ## Installation
 install R 2023 to run this project
+open project.RMD file in R software
 
 ## Usage
 install below libraries for  R software to run this project :
