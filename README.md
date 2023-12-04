@@ -1,4 +1,4 @@
-# TimeSeriesProject
+# TimeSeriesProject(Group C)
 # A Comparative Study of ARIMA, Neural Networks, Dynamic Regressions, Prophet, and Combination Models  and Volatility Forecast Using  Insurance Dataset
 
 ## Description
