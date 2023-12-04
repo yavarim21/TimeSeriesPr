@@ -2,6 +2,9 @@
 # A Comparative Study of ARIMA, Neural Networks, Dynamic Regressions, Prophet, and Combination Models  and Volatility Forecast Using  Insurance Dataset
 
 ## Description
+R codes find in the Rcode folder
+Dataset is in the Data foldes 
+The report is in the Final report folde 
 Dataset is extracted from fpp3 Library 
 
 ## Installation
