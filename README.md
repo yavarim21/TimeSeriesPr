@@ -4,7 +4,7 @@
 ## Description
 R codes find in the Rcode folder
 Dataset is in the Data foldes 
-The report is in the Final report folde 
+The Final report is in the report folde 
 Dataset is extracted from fpp3 Library 
 
 ## Installation
